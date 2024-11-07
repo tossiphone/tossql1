@@ -1,9 +1,9 @@
-# zyqinglong
-青龙自用库
 
----
-可以Issues提交需要薅羊毛的应用-加上能薅到什么羊毛（在我需要的情况下，有能力一定写出来）
----
+![tossql](https://github.com/user-attachments/assets/d01f40ba-0056-4cee-baea-419cbb5b6168)
+
+
+# 折腾青龙库1
+折腾青龙群组：[http://t.me/tossql] 折腾青龙频道：[http://t.me/tossqlchannel]
 
 每个脚本里面都有写有需要的具体东西和变量名
 
@@ -23,13 +23,13 @@ https://linhua.lanzoup.com/iCOcD0yqavmj
 
 ## 青龙订阅任务
 ```
-名称：自用
+名称：折腾青龙库1
 类型：公开仓库
-链接：https://github.com/linbailo/zyqinglong.git
+链接：https://github.com/tossiphone/tossql1
 定时类型：crontab
 定时规则：0 30 * * * *
 文件后缀：py js
 ```
 
 ## 访问量
-![Visitor Count](https://profile-counter.glitch.me/zyqinglong/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/tossql1/count.svg)
